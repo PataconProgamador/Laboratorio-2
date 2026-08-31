@@ -1,0 +1,14 @@
+C:\Users\luixe\source\repos\Problema 3\bin\Debug\net10.0\Problema 3.exe
+C:\Users\luixe\source\repos\Problema 3\bin\Debug\net10.0\Problema 3.deps.json
+C:\Users\luixe\source\repos\Problema 3\bin\Debug\net10.0\Problema 3.runtimeconfig.json
+C:\Users\luixe\source\repos\Problema 3\bin\Debug\net10.0\Problema 3.dll
+C:\Users\luixe\source\repos\Problema 3\bin\Debug\net10.0\Problema 3.pdb
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.dll
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\refint\Problema 3.dll
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.pdb
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\Problema 3.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Problema 3\obj\Debug\net10.0\ref\Problema 3.dll
