@@ -1,0 +1,14 @@
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\bin\Debug\net10.0\LibroCalificaciones_2.exe
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\bin\Debug\net10.0\LibroCalificaciones_2.deps.json
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\bin\Debug\net10.0\LibroCalificaciones_2.runtimeconfig.json
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\bin\Debug\net10.0\LibroCalificaciones_2.dll
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\bin\Debug\net10.0\LibroCalificaciones_2.pdb
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.AssemblyInfo.cs
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.dll
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\refint\LibroCalificaciones_2.dll
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.pdb
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\LibroCalificaciones_2.genruntimeconfig.cache
+C:\Users\luixe\source\repos\LibroCalificaciones_2\LibroCalificaciones_2\obj\Debug\net10.0\ref\LibroCalificaciones_2.dll

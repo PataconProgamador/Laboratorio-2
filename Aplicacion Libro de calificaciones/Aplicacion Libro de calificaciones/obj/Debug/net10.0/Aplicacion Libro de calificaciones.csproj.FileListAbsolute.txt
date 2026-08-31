@@ -1,0 +1,14 @@
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\bin\Debug\net10.0\Aplicacion Libro de calificaciones.exe
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\bin\Debug\net10.0\Aplicacion Libro de calificaciones.deps.json
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\bin\Debug\net10.0\Aplicacion Libro de calificaciones.runtimeconfig.json
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\bin\Debug\net10.0\Aplicacion Libro de calificaciones.dll
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\bin\Debug\net10.0\Aplicacion Libro de calificaciones.pdb
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.dll
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\refint\Aplicacion Libro de calificaciones.dll
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.pdb
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\Aplicacion Libro de calificaciones.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Aplicacion Libro de calificaciones\Aplicacion Libro de calificaciones\obj\Debug\net10.0\ref\Aplicacion Libro de calificaciones.dll

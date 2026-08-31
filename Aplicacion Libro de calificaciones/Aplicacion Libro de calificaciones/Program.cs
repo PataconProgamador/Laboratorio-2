@@ -1,0 +1,12 @@
+﻿namespace Aplicacion_Libro_de_calificaciones
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            LibroCalificaciones MiLibro = new LibroCalificaciones();
+            MiLibro.MostrarMensaje();
+            
+        }
+    }
+}
